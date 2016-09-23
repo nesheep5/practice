@@ -1,4 +1,4 @@
-package onlinecoding.paiza.d;
+package practice.p.d;
 
 import java.util.Scanner;
 
